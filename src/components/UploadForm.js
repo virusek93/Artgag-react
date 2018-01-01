@@ -1,9 +1,5 @@
 import React from 'react'
 
-const UploadForm = () => {
-  return (
+export default () => (
     <h1>Upload form</h1>
-  )
-}
-
-export default UploadForm;
+);
